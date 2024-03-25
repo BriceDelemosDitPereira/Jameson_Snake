@@ -63,7 +63,7 @@ Enjoy the thrilling adventure of Jameson Snake and embark on a quest to rescue t
 After each victory in the game, it is possible to save your score, your time and a nickname. Subsequently, it is possible to see your position in relation to other players in the leaderboard of the main menu.
 
 <p align="center">
-    <img src="src/picturesReadme/leaderboardMenu.png" alt="pauseMenu" width="350">
+    <img src="src/picturesReadme/leaderboardMenu.png" alt="pauseMenu" width="375">
     </p>
 
 Plusieurs actions peuvent vous permettre de récupérer des points : 
@@ -103,7 +103,7 @@ Each evolution of the story is displayed at the start or end of the level in thi
 
 - Advance through each level by moving towards the right until you reach the green flag, signaling the presence of a castle.
     <p align="center">
-    <img src="src/picturesReadme/flag.png" alt="flag" width="300">
+    <img src="src/picturesReadme/flag.png" alt="flag" width="250">
     </p>
 - To pass the entire game, you must pass 3 levels.
     <p align="center">
