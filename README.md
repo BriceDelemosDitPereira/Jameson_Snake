@@ -63,7 +63,7 @@ Enjoy the thrilling adventure of Jameson Snake and embark on a quest to rescue t
 After each victory in the game, it is possible to save your score, your time and a nickname. Subsequently, it is possible to see your position in relation to other players in the leaderboard of the main menu.
 
 <p align="center">
-    <img src="src/picturesReadme/leaderboardMenu.png" alt="pauseMenu" width="400">
+    <img src="src/picturesReadme/leaderboardMenu.png" alt="pauseMenu" width="300">
     </p>
 
 Plusieurs actions peuvent vous permettre de récupérer des points : 
@@ -83,7 +83,7 @@ Plusieurs actions peuvent vous permettre de récupérer des points :
 
 Each evolution of the story is displayed at the start or end of the level in this form : 
 <p align="center">
-<img src="src/picturesReadme/menuHistory.png" alt="menuHistory" width="600">
+<img src="src/picturesReadme/menuHistory.png" alt="menuHistory" width="400">
 </p><br>
 
 ### Here is the complete story board :
