@@ -1,6 +1,6 @@
 # Instructions and Audits
 
-You can find each instruction and audit here :
+You can find each instruction and audit here : (This ✓ indicates that the audit is approved)
 
 ## Make-your-game ✓
 
