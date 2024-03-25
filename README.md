@@ -60,7 +60,7 @@ Enjoy the thrilling adventure of Jameson Snake and embark on a quest to rescue t
 
 ## Leaderboard
 
-After each victory in the game, it is possible to save your score, your time and a nickname. Subsequently, it is possible to see your position in relation to other players in the leaderboard of the main menu.
+After each victory in the game, it is possible to save your score, your time and a nickname. Subsequently, it is possible to see your position in relation to other players in the leaderboard of the main menu. The leaderboard is currently not accessible on [itch.io](https://rexgame.itch.io/jameson-snake).
 
 <p align="center">
     <img src="src/picturesReadme/leaderboardMenu.png" alt="pauseMenu" width="400">
@@ -76,7 +76,7 @@ Plusieurs actions peuvent vous permettre de récupérer des points :
 
 ### Record:
 
-- Time record : 53 sec (all level)
+- Time record : 52 sec (all level)
 
 
 ## History
