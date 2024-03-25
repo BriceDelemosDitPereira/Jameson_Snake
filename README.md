@@ -107,9 +107,9 @@ Each evolution of the story is displayed at the start or end of the level in thi
     </p>
 - To pass the entire game, you must pass 3 levels.
     <p align="center">
-    <img src="src/picturesReadme/firstLvl.png" alt="firstLvl" width="200">
-    <img src="src/picturesReadme/beachLvl.png" alt="beachLvl" width="200">
-    <img src="src/picturesReadme/dungeonLvl.png" alt="dungeonLvl" width="200">
+    <img src="src/picturesReadme/firstLvl.png" alt="firstLvl" width="250">
+    <img src="src/picturesReadme/beachLvl.png" alt="beachLvl" width="250">
+    <img src="src/picturesReadme/dungeonLvl.png" alt="dungeonLvl" width="250">
     </p>
 - In the final level, ensure to rescue the princess before reaching the green flag; otherwise, you'll need to restart the level if you have remaining lives.
     <p align="center">
