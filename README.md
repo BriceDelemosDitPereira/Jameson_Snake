@@ -117,8 +117,7 @@ Each evolution of the story is displayed at the start or end of the level in thi
     </p>
 
 
-## Developers
+## Co-developers
 
-- Delemos Dit Pereira Brice (@bdelemos) (PR : 56 sec)
-- Delestre Thomas (@tdelestr)
-- Roy Simon (@roy.simon) (PR : 53 sec)
+- [Delestre Thomas](https://github.com/Thomas-Delestre)
+- [Roy Simon](https://github.com/RoyS122)
